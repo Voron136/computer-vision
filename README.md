@@ -2,7 +2,7 @@
 
 На данном этапе, датасет состоит из 10 изображений с жестами, обозначающими цифры. Всего по ~200 изображений на один жест.
  
-![example_2](https://github.com/user-attachments/assets/6e5fcc36-4136-4c4f-a141-d75220c58b8c) ![example_8](https://github.com/user-attachments/assets/d2727d6e-da8b-4fe2-8ac8-d01c408c69c1)
+![example_2](https://github.com/user-attachments/assets/6e5fcc36-4136-4c4f-a141-d75220c58b8c) ![IMG_1136](https://github.com/user-attachments/assets/3c2170f8-8962-4101-ae48-4eb1ccd453b6)
 
 Пример: жест, означающий 2 и жест, означающий 8.
 
